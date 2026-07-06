@@ -1,21 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="" />
+    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="test github">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="8" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/dancytron/BisectionRoot.git",
+    "accountId": "e474904d-6828-45fe-b7cd-93c2571c70c1"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0266448404153787" />
+      <entry key="MS500" value="1.4947851402051942" />
+      <entry key="S2" value="2.346473827554767" />
+      <entry key="S5" value="3.084880506124324" />
+      <entry key="S10" value="3.4884930883119054" />
+      <entry key="S30" value="4.198217599101017" />
+      <entry key="S60" value="5.102719654993901" />
+      <entry key="M2" value="6.116661925928765" />
+      <entry key="M5" value="7.100241777754574" />
+      <entry key="M10" value="7.520921124937342" />
+      <entry key="M15" value="7.6737094042463445" />
+      <entry key="M30" value="7.833291670355874" />
+      <entry key="H1" value="7.91573365334083" />
+      <entry key="H2" value="7.9576360429241975" />
+      <entry key="H4" value="7.978759979394158" />
+      <entry key="D1" value="7.996451905608294" />
+      <entry key="W1" value="7.999492930840046" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="7.720830902079395E-212" />
+      <entry key="MS500" value="5.9914619856444675E-43" />
+      <entry key="S2" value="2.7821670449156745E-11" />
+      <entry key="S5" value="5.9945043656212905E-5" />
+      <entry key="S10" value="0.007742418463000621" />
+      <entry key="S30" value="0.19783002845847486" />
+      <entry key="S60" value="0.4447808769028575" />
+      <entry key="M2" value="0.6669189432778599" />
+      <entry key="M5" value="0.8504116897174387" />
+      <entry key="M10" value="0.9221776887983351" />
+      <entry key="M15" value="0.9474211460677391" />
+      <entry key="M30" value="0.9733556113095251" />
+      <entry key="H1" value="0.9865878629445659" />
+      <entry key="H2" value="0.993271293728237" />
+      <entry key="H4" value="0.9966299683073137" />
+      <entry key="D1" value="0.9994375377346112" />
+      <entry key="W1" value="0.9999196288718425" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9507343022902435" />
+      <entry key="MS500" value="1.4428852844718698" />
+      <entry key="S2" value="2.324778288931019" />
+      <entry key="S5" value="3.074692170147908" />
+      <entry key="S10" value="3.488016180430165" />
+      <entry key="S30" value="4.3580254118648" />
+      <entry key="S60" value="5.494097362262186" />
+      <entry key="M2" value="6.73577520460316" />
+      <entry key="M5" value="7.922845278010577" />
+      <entry key="M10" value="8.427276372753827" />
+      <entry key="M15" value="8.61011237691786" />
+      <entry key="M30" value="8.800891344455474" />
+      <entry key="H1" value="8.899379498818906" />
+      <entry key="H2" value="8.949420014303994" />
+      <entry key="H4" value="8.974642169846858" />
+      <entry key="D1" value="8.995764238662161" />
+      <entry key="W1" value="8.99939465920343" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
@@ -28,14 +96,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,11 +124,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1783361405862</updated>
-      <workItem from="1783361406865" duration="1000" />
+      <workItem from="1783361406865" duration="445000" />
     </task>
+    <task id="LOCAL-00001" summary="test github">
+      <option name="closed" value="true" />
+      <created>1783361659747</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1783361659748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test github" />
+    <option name="LAST_COMMIT_MESSAGE" value="test github" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783361586163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

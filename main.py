@@ -6,9 +6,10 @@
 
 # -*- coding: utf-8 -*-
 """
-Spyder Editor
 
-function for finding roots with bisection search p 68
+function for estimating roots with bisection search p 68
+
+Used to test github push, which worked after I created the ropo.
 
 """
 
@@ -30,7 +31,7 @@ def find_root(x, power, epsilon):
     return ans
 
 
-num = float(input(f' enter number to find root of':  ))
+num = float(input(f' enter number to find root of:  '  ))
 power_of = float(input(f'enter power:  '))
 epsil = float(input(f'epsilon:  '))
 
