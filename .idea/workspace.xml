@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="test github">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +19,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "dancytron"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/dancytron/BisectionRoot.git",
@@ -28,61 +37,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0266448404153787" />
-      <entry key="MS500" value="1.4947851402051942" />
-      <entry key="S2" value="2.346473827554767" />
-      <entry key="S5" value="3.084880506124324" />
-      <entry key="S10" value="3.4884930883119054" />
-      <entry key="S30" value="4.198217599101017" />
-      <entry key="S60" value="5.102719654993901" />
-      <entry key="M2" value="6.116661925928765" />
-      <entry key="M5" value="7.100241777754574" />
-      <entry key="M10" value="7.520921124937342" />
-      <entry key="M15" value="7.6737094042463445" />
-      <entry key="M30" value="7.833291670355874" />
-      <entry key="H1" value="7.91573365334083" />
-      <entry key="H2" value="7.9576360429241975" />
-      <entry key="H4" value="7.978759979394158" />
-      <entry key="D1" value="7.996451905608294" />
-      <entry key="W1" value="7.999492930840046" />
+      <entry key="MS100" value="1.0000000000000429" />
+      <entry key="MS500" value="1.0034178325596264" />
+      <entry key="S2" value="1.6199032616431" />
+      <entry key="S5" value="2.879707245259837" />
+      <entry key="S10" value="3.7418222077206447" />
+      <entry key="S30" value="5.64144929416255" />
+      <entry key="S60" value="9.476546831505942" />
+      <entry key="M2" value="14.994171077375972" />
+      <entry key="M5" value="22.389694310493482" />
+      <entry key="M10" value="26.718565979314704" />
+      <entry key="M15" value="28.544026342615155" />
+      <entry key="M30" value="30.621656248741363" />
+      <entry key="H1" value="31.769818326806053" />
+      <entry key="H2" value="32.37419139414692" />
+      <entry key="H4" value="32.68435554603154" />
+      <entry key="D1" value="32.94700673870223" />
+      <entry key="W1" value="32.9924200150161" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="7.720830902079395E-212" />
-      <entry key="MS500" value="5.9914619856444675E-43" />
-      <entry key="S2" value="2.7821670449156745E-11" />
-      <entry key="S5" value="5.9945043656212905E-5" />
-      <entry key="S10" value="0.007742418463000621" />
-      <entry key="S30" value="0.19783002845847486" />
-      <entry key="S60" value="0.4447808769028575" />
-      <entry key="M2" value="0.6669189432778599" />
-      <entry key="M5" value="0.8504116897174387" />
-      <entry key="M10" value="0.9221776887983351" />
-      <entry key="M15" value="0.9474211460677391" />
-      <entry key="M30" value="0.9733556113095251" />
-      <entry key="H1" value="0.9865878629445659" />
-      <entry key="H2" value="0.993271293728237" />
-      <entry key="H4" value="0.9966299683073137" />
-      <entry key="D1" value="0.9994375377346112" />
-      <entry key="W1" value="0.9999196288718425" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="3.6433813E-316" />
+      <entry key="S2" value="1.3815803760485927E-79" />
+      <entry key="S5" value="2.85858073392973E-32" />
+      <entry key="S10" value="1.6907337856474406E-16" />
+      <entry key="S30" value="5.529574882433087E-6" />
+      <entry key="S60" value="0.002351504812334665" />
+      <entry key="M2" value="0.04849231704440062" />
+      <entry key="M5" value="0.29803630768861367" />
+      <entry key="M10" value="0.545927016815081" />
+      <entry key="M15" value="0.6679691289418065" />
+      <entry key="M30" value="0.8172937837410773" />
+      <entry key="H1" value="0.9040430209570105" />
+      <entry key="H2" value="0.9508117694670223" />
+      <entry key="H4" value="0.9750957745098796" />
+      <entry key="D1" value="0.9958055575922875" />
+      <entry key="W1" value="0.9993997139927807" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9507343022902435" />
-      <entry key="MS500" value="1.4428852844718698" />
-      <entry key="S2" value="2.324778288931019" />
-      <entry key="S5" value="3.074692170147908" />
-      <entry key="S10" value="3.488016180430165" />
-      <entry key="S30" value="4.3580254118648" />
-      <entry key="S60" value="5.494097362262186" />
-      <entry key="M2" value="6.73577520460316" />
-      <entry key="M5" value="7.922845278010577" />
-      <entry key="M10" value="8.427276372753827" />
-      <entry key="M15" value="8.61011237691786" />
-      <entry key="M30" value="8.800891344455474" />
-      <entry key="H1" value="8.899379498818906" />
-      <entry key="H2" value="8.949420014303994" />
-      <entry key="H4" value="8.974642169846858" />
-      <entry key="D1" value="8.995764238662161" />
-      <entry key="W1" value="8.99939465920343" />
+      <entry key="MS100" value="0.9138314502294419" />
+      <entry key="MS500" value="0.9855304076563751" />
+      <entry key="S2" value="1.6139540714595741" />
+      <entry key="S5" value="2.8760684143908484" />
+      <entry key="S10" value="3.7395510374979173" />
+      <entry key="S30" value="5.639410340207877" />
+      <entry key="S60" value="9.47573934673681" />
+      <entry key="M2" value="15.036470321694358" />
+      <entry key="M5" value="22.6763574017686" />
+      <entry key="M10" value="27.25419264266231" />
+      <entry key="M15" value="29.20357558401452" />
+      <entry key="M30" value="31.43377576197437" />
+      <entry key="H1" value="32.670990889070346" />
+      <entry key="H2" value="33.32349110905724" />
+      <entry key="H4" value="33.65867528821773" />
+      <entry key="D1" value="33.94268010887494" />
+      <entry key="W1" value="33.9918007743953" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
@@ -113,6 +122,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -124,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1783361405862</updated>
-      <workItem from="1783361406865" duration="445000" />
+      <workItem from="1783361406865" duration="2509000" />
     </task>
     <task id="LOCAL-00001" summary="test github">
       <option name="closed" value="true" />
@@ -134,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783361659748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test github">
+      <option name="closed" value="true" />
+      <created>1783362089818</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1783362089818</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,9 +160,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test github" />
-    <option name="LAST_COMMIT_MESSAGE" value="test github" />
+    <MESSAGE value="fix error in input string" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix error in input string" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783361586163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783362056422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
