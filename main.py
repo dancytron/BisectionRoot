@@ -7,12 +7,12 @@
 # -*- coding: utf-8 -*-
 """
 
-function for estimating roots with bisection search p 68
+Function for estimating roots with bisection search from p. 68 of Introduction to Computation and Programming Using
+Python. 3rd edition. by John V. Guttag.
 
-Used to test github push, which worked after I created the ropo.
+Used to test GitHub push and practice using IDE.
 
 """
-import datetime
 import time
 
 
@@ -35,6 +35,7 @@ def find_root(x, power, epsilon):
 
 num = float(input(f' enter number to find root of:  '  ))
 power_of = float(input(f'enter power:  '))
+# noinspection SpellCheckingInspection
 epsil = float(input(f'epsilon:  '))
 start = time.time()
 answer = find_root(num, power_of, epsil)

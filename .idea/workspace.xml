@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="test Gemini writing readme.md and pushing to github">
+    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="Added timer, practicing using ide.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -38,62 +38,65 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="7.286642763558367E-66" />
-      <entry key="S2" value="5.195854702382606E-17" />
-      <entry key="S5" value="3.2770877597742395E-7" />
-      <entry key="S10" value="0.001099454422808963" />
-      <entry key="S30" value="0.619597789780396" />
-      <entry key="S60" value="3.8328577660939502" />
-      <entry key="M2" value="12.611422851258856" />
-      <entry key="M5" value="33.32789864164568" />
-      <entry key="M10" value="49.44316781014142" />
-      <entry key="M15" value="56.97172860034233" />
-      <entry key="M30" value="66.0271205829602" />
-      <entry key="H1" value="71.24518002377584" />
-      <entry key="H2" value="74.05146912877119" />
-      <entry key="H4" value="75.50742047753326" />
-      <entry key="D1" value="76.74864630006809" />
-      <entry key="W1" value="76.9640282680463" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000220577" />
+      <entry key="S2" value="1.0038611815270553" />
+      <entry key="S5" value="1.1171249535020624" />
+      <entry key="S10" value="1.4317288372115096" />
+      <entry key="S30" value="3.159746123974818" />
+      <entry key="S60" value="6.680750433082737" />
+      <entry key="M2" value="11.89020575378464" />
+      <entry key="M5" value="23.821046978492745" />
+      <entry key="M10" value="42.32626140396081" />
+      <entry key="M15" value="55.543034967602026" />
+      <entry key="M30" value="76.17272952335195" />
+      <entry key="H1" value="90.65500016615422" />
+      <entry key="H2" value="99.28132670070032" />
+      <entry key="H4" value="103.9952527369391" />
+      <entry key="D1" value="108.14487779997528" />
+      <entry key="W1" value="108.87731465411322" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001023489757" />
-      <entry key="S2" value="1.0178863150093544" />
-      <entry key="S5" value="1.1999900429191315" />
-      <entry key="S10" value="1.4473065467598945" />
-      <entry key="S30" value="1.8120739455290236" />
-      <entry key="S60" value="2.109136664405711" />
-      <entry key="M2" value="2.539173715040814" />
-      <entry key="M5" value="3.27801749484926" />
-      <entry key="M10" value="3.8615442637035624" />
-      <entry key="M15" value="4.153669369079197" />
-      <entry key="M30" value="4.523776733736582" />
-      <entry key="H1" value="4.746472701223038" />
-      <entry key="H2" value="4.869072239250105" />
-      <entry key="H4" value="4.933453389349893" />
-      <entry key="D1" value="4.988754833942457" />
-      <entry key="W1" value="4.998389725637436" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.797616117318449E-132" />
+      <entry key="S5" value="2.3876832542146033E-53" />
+      <entry key="S10" value="6.455948572185543E-27" />
+      <entry key="S30" value="2.982925644779136E-9" />
+      <entry key="S60" value="8.557324031401828E-5" />
+      <entry key="M2" value="0.01617368727822992" />
+      <entry key="M5" value="0.43376840774974984" />
+      <entry key="M10" value="1.404702459985409" />
+      <entry key="M15" value="2.116642315708102" />
+      <entry key="M30" value="3.2293040543143667" />
+      <entry key="H1" value="4.010281649737208" />
+      <entry key="H2" value="4.475568017776855" />
+      <entry key="H4" value="4.729900461323839" />
+      <entry key="D1" value="4.953843969928169" />
+      <entry key="W1" value="4.993377775863679" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="1.7039953791546935E-15" />
-      <entry key="MS500" value="0.0011124837740042136" />
-      <entry key="S2" value="0.1842678082736984" />
-      <entry key="S5" value="0.5834090913966459" />
-      <entry key="S10" value="0.9900535850897418" />
-      <entry key="S30" value="2.1979912714488425" />
-      <entry key="S60" value="5.7832778838419205" />
-      <entry key="M2" value="15.034625919721911" />
-      <entry key="M5" value="36.531239267200895" />
-      <entry key="M10" value="53.25586331040931" />
-      <entry key="M15" value="61.08896410056313" />
-      <entry key="M30" value="70.53021936035141" />
-      <entry key="H1" value="75.98057053916975" />
-      <entry key="H2" value="78.91479525695345" />
-      <entry key="H4" value="80.43794691829488" />
-      <entry key="D1" value="81.73690558817904" />
-      <entry key="W1" value="81.96234700917435" />
+      <entry key="MS100" value="0.8888426811665702" />
+      <entry key="MS500" value="0.9767085291752904" />
+      <entry key="S2" value="0.9979534174516708" />
+      <entry key="S5" value="1.114353617548696" />
+      <entry key="S10" value="1.4297419975089738" />
+      <entry key="S30" value="3.158090130749976" />
+      <entry key="S60" value="6.6790848510529255" />
+      <entry key="M2" value="11.904148317693759" />
+      <entry key="M5" value="24.244038534459314" />
+      <entry key="M10" value="43.7126673801263" />
+      <entry key="M15" value="57.64073842965358" />
+      <entry key="M30" value="79.38707424019402" />
+      <entry key="H1" value="94.6558160709297" />
+      <entry key="H2" value="103.75156092076432" />
+      <entry key="H4" value="108.7223207615935" />
+      <entry key="D1" value="113.09822528564581" />
+      <entry key="W1" value="113.87062088642867" />
     </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7,
@@ -124,7 +127,8 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.externalTools",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -139,7 +143,7 @@
       <workItem from="1783361406865" duration="2509000" />
       <workItem from="1783385901226" duration="271000" />
       <workItem from="1783440100239" duration="16000" />
-      <workItem from="1783474191120" duration="1169000" />
+      <workItem from="1783474191120" duration="2515000" />
     </task>
     <task id="LOCAL-00001" summary="test github">
       <option name="closed" value="true" />
@@ -165,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783386141830</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added timer, practicing using ide.">
+      <option name="closed" value="true" />
+      <created>1783475408190</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1783475408190</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,9 +187,10 @@
     <MESSAGE value="test github" />
     <MESSAGE value="fix error in input string" />
     <MESSAGE value="test Gemini writing readme.md and pushing to github" />
-    <option name="LAST_COMMIT_MESSAGE" value="test Gemini writing readme.md and pushing to github" />
+    <MESSAGE value="Added timer, practicing using ide." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added timer, practicing using ide." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783475301155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783475682459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
