@@ -12,6 +12,8 @@ function for estimating roots with bisection search p 68
 Used to test github push, which worked after I created the ropo.
 
 """
+import datetime
+import time
 
 
 def find_root(x, power, epsilon):
@@ -34,9 +36,11 @@ def find_root(x, power, epsilon):
 num = float(input(f' enter number to find root of:  '  ))
 power_of = float(input(f'enter power:  '))
 epsil = float(input(f'epsilon:  '))
-
+start = time.time()
 answer = find_root(num, power_of, epsil)
+end = time.time()
 print(answer)
+print (f' time elapsed:  {end - start}')
 
 # print (find_root(52, 5, .1))
 

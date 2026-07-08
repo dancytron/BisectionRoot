@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="test github">
+    <list default="true" id="5fe23ded-5502-4b39-9ab4-f4a807abe100" name="Changes" comment="test Gemini writing readme.md and pushing to github">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,91 +14,91 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="8" />
+    <option name="cachedIndexableFilesCount" value="9" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "dancytron"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;dancytron&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/dancytron/BisectionRoot.git",
-    "accountId": "e474904d-6828-45fe-b7cd-93c2571c70c1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/dancytron/BisectionRoot.git&quot;,
+    &quot;accountId&quot;: &quot;e474904d-6828-45fe-b7cd-93c2571c70c1&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000000000429" />
-      <entry key="MS500" value="1.0034178325596264" />
-      <entry key="S2" value="1.6199032616431" />
-      <entry key="S5" value="2.879707245259837" />
-      <entry key="S10" value="3.7418222077206447" />
-      <entry key="S30" value="5.64144929416255" />
-      <entry key="S60" value="9.476546831505942" />
-      <entry key="M2" value="14.994171077375972" />
-      <entry key="M5" value="22.389694310493482" />
-      <entry key="M10" value="26.718565979314704" />
-      <entry key="M15" value="28.544026342615155" />
-      <entry key="M30" value="30.621656248741363" />
-      <entry key="H1" value="31.769818326806053" />
-      <entry key="H2" value="32.37419139414692" />
-      <entry key="H4" value="32.68435554603154" />
-      <entry key="D1" value="32.94700673870223" />
-      <entry key="W1" value="32.9924200150161" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="7.286642763558367E-66" />
+      <entry key="S2" value="5.195854702382606E-17" />
+      <entry key="S5" value="3.2770877597742395E-7" />
+      <entry key="S10" value="0.001099454422808963" />
+      <entry key="S30" value="0.619597789780396" />
+      <entry key="S60" value="3.8328577660939502" />
+      <entry key="M2" value="12.611422851258856" />
+      <entry key="M5" value="33.32789864164568" />
+      <entry key="M10" value="49.44316781014142" />
+      <entry key="M15" value="56.97172860034233" />
+      <entry key="M30" value="66.0271205829602" />
+      <entry key="H1" value="71.24518002377584" />
+      <entry key="H2" value="74.05146912877119" />
+      <entry key="H4" value="75.50742047753326" />
+      <entry key="D1" value="76.74864630006809" />
+      <entry key="W1" value="76.9640282680463" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="3.6433813E-316" />
-      <entry key="S2" value="1.3815803760485927E-79" />
-      <entry key="S5" value="2.85858073392973E-32" />
-      <entry key="S10" value="1.6907337856474406E-16" />
-      <entry key="S30" value="5.529574882433087E-6" />
-      <entry key="S60" value="0.002351504812334665" />
-      <entry key="M2" value="0.04849231704440062" />
-      <entry key="M5" value="0.29803630768861367" />
-      <entry key="M10" value="0.545927016815081" />
-      <entry key="M15" value="0.6679691289418065" />
-      <entry key="M30" value="0.8172937837410773" />
-      <entry key="H1" value="0.9040430209570105" />
-      <entry key="H2" value="0.9508117694670223" />
-      <entry key="H4" value="0.9750957745098796" />
-      <entry key="D1" value="0.9958055575922875" />
-      <entry key="W1" value="0.9993997139927807" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001023489757" />
+      <entry key="S2" value="1.0178863150093544" />
+      <entry key="S5" value="1.1999900429191315" />
+      <entry key="S10" value="1.4473065467598945" />
+      <entry key="S30" value="1.8120739455290236" />
+      <entry key="S60" value="2.109136664405711" />
+      <entry key="M2" value="2.539173715040814" />
+      <entry key="M5" value="3.27801749484926" />
+      <entry key="M10" value="3.8615442637035624" />
+      <entry key="M15" value="4.153669369079197" />
+      <entry key="M30" value="4.523776733736582" />
+      <entry key="H1" value="4.746472701223038" />
+      <entry key="H2" value="4.869072239250105" />
+      <entry key="H4" value="4.933453389349893" />
+      <entry key="D1" value="4.988754833942457" />
+      <entry key="W1" value="4.998389725637436" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9138314502294419" />
-      <entry key="MS500" value="0.9855304076563751" />
-      <entry key="S2" value="1.6139540714595741" />
-      <entry key="S5" value="2.8760684143908484" />
-      <entry key="S10" value="3.7395510374979173" />
-      <entry key="S30" value="5.639410340207877" />
-      <entry key="S60" value="9.47573934673681" />
-      <entry key="M2" value="15.036470321694358" />
-      <entry key="M5" value="22.6763574017686" />
-      <entry key="M10" value="27.25419264266231" />
-      <entry key="M15" value="29.20357558401452" />
-      <entry key="M30" value="31.43377576197437" />
-      <entry key="H1" value="32.670990889070346" />
-      <entry key="H2" value="33.32349110905724" />
-      <entry key="H4" value="33.65867528821773" />
-      <entry key="D1" value="33.94268010887494" />
-      <entry key="W1" value="33.9918007743953" />
+      <entry key="MS100" value="1.7039953791546935E-15" />
+      <entry key="MS500" value="0.0011124837740042136" />
+      <entry key="S2" value="0.1842678082736984" />
+      <entry key="S5" value="0.5834090913966459" />
+      <entry key="S10" value="0.9900535850897418" />
+      <entry key="S30" value="2.1979912714488425" />
+      <entry key="S60" value="5.7832778838419205" />
+      <entry key="M2" value="15.034625919721911" />
+      <entry key="M5" value="36.531239267200895" />
+      <entry key="M10" value="53.25586331040931" />
+      <entry key="M15" value="61.08896410056313" />
+      <entry key="M30" value="70.53021936035141" />
+      <entry key="H1" value="75.98057053916975" />
+      <entry key="H2" value="78.91479525695345" />
+      <entry key="H4" value="80.43794691829488" />
+      <entry key="D1" value="81.73690558817904" />
+      <entry key="W1" value="81.96234700917435" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3G8m7oLm9wyh6Y5lbuGTNOaM3L6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -110,6 +111,7 @@
     "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -122,7 +124,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -135,6 +137,9 @@
       <option name="presentableId" value="Default" />
       <updated>1783361405862</updated>
       <workItem from="1783361406865" duration="2509000" />
+      <workItem from="1783385901226" duration="271000" />
+      <workItem from="1783440100239" duration="16000" />
+      <workItem from="1783474191120" duration="1169000" />
     </task>
     <task id="LOCAL-00001" summary="test github">
       <option name="closed" value="true" />
@@ -152,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1783362089818</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test Gemini writing readme.md and pushing to github">
+      <option name="closed" value="true" />
+      <created>1783386141830</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1783386141830</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,9 +174,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test github" />
     <MESSAGE value="fix error in input string" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix error in input string" />
+    <MESSAGE value="test Gemini writing readme.md and pushing to github" />
+    <option name="LAST_COMMIT_MESSAGE" value="test Gemini writing readme.md and pushing to github" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783362056422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/BisectionTestGithub$main.coverage" NAME="main Coverage Results" MODIFIED="1783475301155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
