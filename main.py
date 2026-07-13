@@ -33,8 +33,8 @@ def find_root(x, power, epsilon):
     return ans
 
 
-num = float(input(f' enter number to find root of:  '  ))
-power_of = float(input(f'enter power:  '))
+num = int(input(f' enter number to find root of:  '  ))
+power_of = int(input(f'enter power:  '))
 # noinspection SpellCheckingInspection
 epsil = float(input(f'epsilon:  '))
 start = time.time()
